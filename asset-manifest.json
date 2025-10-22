@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ezinne/static/css/main.3ce74616.css",
+    "main.js": "/Ezinne/static/js/main.885f7030.js",
+    "static/media/ezinne.jpeg": "/Ezinne/static/media/ezinne.ec459ba028ddcdf5c04a.jpeg",
+    "static/media/logo.jpeg": "/Ezinne/static/media/logo.cfc2d620f0d38bf2373b.jpeg",
+    "index.html": "/Ezinne/index.html",
+    "main.3ce74616.css.map": "/Ezinne/static/css/main.3ce74616.css.map",
+    "main.885f7030.js.map": "/Ezinne/static/js/main.885f7030.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce74616.css",
+    "static/js/main.885f7030.js"
+  ]
+}
